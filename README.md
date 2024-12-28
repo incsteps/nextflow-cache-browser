@@ -5,8 +5,12 @@ A JavaFX application to inspect the Nextflow's executions with the posibility to
 
 # ScreenShoot
 
-![imagen](https://github.com/user-attachments/assets/4dc2365d-6e8e-444b-90e0-2efe7424b548)
+![imagen](https://github.com/user-attachments/assets/48c13566-3d25-468b-b21b-bc2c41b82755)
 
-![imagen](https://github.com/user-attachments/assets/3c53e2c9-af08-4e0d-a914-f3c386662ee3)
+Open your nextflow work area
 
-![imagen](https://github.com/user-attachments/assets/ce1608c0-ded4-4969-b652-2ef203f0fcdb)
+![imagen](https://github.com/user-attachments/assets/87438028-dd61-4bc9-b9d0-8a3fa2d30111)
+
+Select an execution (or workdir) , a task and see the task detail
+
+![imagen](https://github.com/user-attachments/assets/9c7882b7-857b-4562-abf3-c161f3d5ba6d)
